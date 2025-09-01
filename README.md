@@ -1,27 +1,99 @@
-# 💫 About Me:
-Danial Afridi<br>Backend Developer at Softex Solutions | Remote Worker<br><br>I specialize in backend development with expertise in Node.js, Express, and MongoDB. I also have a strong foundation in PHP and Android app development using Java. I graduated from Hamdard University, Islamabad, and have worked on a variety of projects, including a podcast web application. Currently, I'm focused on building a storage system similar to Dropbox.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdanialafridi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/afridi4you) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=danialafridi1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=danialafridi1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=danialafridi1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=danialafridi1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=danialafridi1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Danial Afridi
+**Backend Engineer | Full-Stack Developer | Technology Enthusiast**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=danialafridi1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Professional Overview
+
+Senior Backend Developer at Softex Solutions with comprehensive expertise in server-side architecture and full-stack development. Graduated from Hamdard University, Islamabad, with a proven track record of delivering scalable applications and innovative solutions.
+
+**Current Focus:** Developing enterprise-grade cloud storage solutions with advanced file management capabilities, leveraging modern backend technologies for optimal performance and scalability.
+
+---
+
+## Core Competencies
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Database Technologies
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### Development Ecosystem
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## Featured Projects
+
+**🛍️ DealZon Marketplace**  
+Comprehensive e-commerce platform connecting buyers and sellers across multiple product categories. Features secure transaction processing, real-time communication, multi-vendor support, and scalable architecture for businesses of all sizes—from individual sellers to enterprise clients.
+
+**🎧 Podcast Web Application**  
+Comprehensive audio streaming platform with user authentication, content management, and real-time playback features.
+
+**☁️ Cloud Storage System**  
+Enterprise-level file storage solution with secure upload/download capabilities, user management, and scalable architecture similar to industry-leading platforms.
+
+---
+
+## Professional Analytics
+
+<div align="center">
+
+![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=danialafridi1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Development Streak](https://github-readme-streak-stats.herokuapp.com/?user=danialafridi1&theme=tokyonight&hide_border=true)
+
+![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=danialafridi1&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## Recognition & Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=danialafridi1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+---
+
+## Development Philosophy
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+Building robust, maintainable solutions that scale with business needs while maintaining clean, efficient codebases.
+
+---
+
+## Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamdanialafridi)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/afridi4you)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/danialafridi1)
+
+**Open to:** Backend development opportunities, technical consulting, and collaborative projects in emerging technologies.
+
+---
+
+<div align="center">
+
+![Profile Views](https://visitcount.itsvg.in/api?id=danialafridi1&label=Profile%20Views&color=0&icon=5&pretty=true)
+
+*Crafting digital solutions that matter*
+
+</div>
