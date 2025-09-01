@@ -1,11 +1,11 @@
 # Danial Afridi
-**Backend Engineer | Full-Stack Developer | Technology Enthusiast**
+**Backend Engineer | Technology Enthusiast**
 
 ---
 
 ## Professional Overview
 
-Senior Backend Developer at Softex Solutions with comprehensive expertise in server-side architecture and full-stack development. Graduated from Hamdard University, Islamabad, with a proven track record of delivering scalable applications and innovative solutions.
+Backend Developer at IR Solution with comprehensive expertise in server-side architecture and application development. Graduated from Hamdard University, Islamabad, with a proven track record of delivering scalable applications and innovative solutions.
 
 **Current Focus:** Developing enterprise-grade cloud storage solutions with advanced file management capabilities, leveraging modern backend technologies for optimal performance and scalability.
 
